@@ -1,5 +1,5 @@
 <h1 align="center"> Conversor </h1>
-![hola](<img  src = "https://user-images.githubusercontent.com/101532038/194219595-6940b6b2-19c5-43fd-9d9c-71c9331bff60.png">)
+<img  align="center" src = "https://user-images.githubusercontent.com/101532038/194219595-6940b6b2-19c5-43fd-9d9c-71c9331bff60.png">
 
 
 <h4 align="center">
