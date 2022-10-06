@@ -10,6 +10,9 @@
 - `Funcionalidad 1`: Permitira hacer conversiones entre divisas 
 - `Funcionalidad 2`: Permitira hacer conversiones de temperaturas 
 - `Funcionalidad 3`: Permitira hacer conversiones de tiempo
+
+**Autor 🧑:**
+
 [<img src="https://avatars.githubusercontent.com/u/101532038?s=400&u=5c8c77eef898ddcb40dea922fc1c437b97d3d3e9&v=4" width=115><br>
 <sub>Oscar Alejandro Bojórquez Ruíz</sub>](hhttps://github.com/Bojorquez01)
 
