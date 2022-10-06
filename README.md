@@ -1,4 +1,5 @@
 <h1 align="center"> Conversor </h1>
+![Challenge Oracle Next Education + Alura Banner](https://raw.githubusercontent.com/EduardoUT/ConversorMoneda-ONE-Alura_Challenge/master/src/Imagenes/challengeImage.jpg)
 ![hola](https://user-images.githubusercontent.com/101532038/194219595-6940b6b2-19c5-43fd-9d9c-71c9331bff60.png)
 
 
